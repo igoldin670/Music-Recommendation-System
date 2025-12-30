@@ -40,9 +40,11 @@ This structure reflects real-world logging data used in recommender systems.
 ---
 
 ## Project Structure
+```
 ├── music_interactions_messy.csv
 ├── music_recommender.ipynb
 └── README.md
+```
 
 
 ---
