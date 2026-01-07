@@ -4,7 +4,7 @@
 This project builds an end-to-end **music recommender system** that generates **top-3 song recommendations per user** using **implicit feedback** (listens, likes, skips, playlist additions).
 
 The project intentionally starts from **messy, realistic interaction logs** to demonstrate the full data science workflow:
-data auditing → cleaning → feature construction → modeling → evaluation.
+data auditing -> cleaning -> feature construction -> modeling -> evaluation.
 
 ---
 
