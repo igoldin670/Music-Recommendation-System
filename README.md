@@ -16,7 +16,7 @@ Given a user’s historical interactions with songs, the system ranks unseen son
 ## Dataset
 **File:** `music_interactions_messy.csv`
 
-The dataset represents user–song interaction logs and is intentionally noisy.
+The dataset represents user to song interaction logs and is intentionally noisy.
 Each row corresponds to a single interaction event.
 
 ### Key characteristics
