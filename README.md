@@ -73,7 +73,9 @@ Tools & Requirements
 - Core: Python, Pandas, NumPy
 - ML/Math: SciPy (Sparse Matrices), implicit (ALS)
 - Viz: Matplotlib, Seaborn
+
 To run the project, ensure you have the implicit library installed:
+
 pip install implicit
 
 Conclusion
