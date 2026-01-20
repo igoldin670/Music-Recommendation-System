@@ -1,7 +1,7 @@
 # Music Recommendation System (Top-10) with Implicit Feedback
 
 ## Overview
-This project builds an end-to-end **music recommender system** designed to generate **top-10 personalized song recommendations**. Unlike traditional systems that rely on explicit ratings (e.g., 1-5 stars), this project leverages **implicit feedback**—signals like plays, likes, and skips—to infer user preferences.
+This project builds an end-to-end **music recommender system** designed to generate **top-10 personalized song recommendations**. Unlike traditional systems that rely on explicit ratings (e.g., 1-5 stars), this project leverages **implicit feedback**,signals like plays, likes, and skips, to infer user preferences.
 
 A core focus of this project is the **full data science lifecycle**, starting from an intentionally messy dataset to demonstrate robust data engineering and auditing before modeling.
 
